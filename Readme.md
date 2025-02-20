@@ -19,6 +19,7 @@
      ```
 
 ## Структура проекта
+```
 shooting_game/
 │
 ├── assets/
@@ -34,7 +35,7 @@ shooting_game/
 ├── player.py
 ├── target.py
 └── bullet.py
-
+```
 
 ## Запуск игры
 
